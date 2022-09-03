@@ -58,3 +58,14 @@ leave message:https://github.com/AlgoNetwork/Bee-Sender-v2/issues<br>
 <br><br>
 Update:<br>
 Version 2.1:Fix bug,add multi language.<br>
+
+
+#### Buy Cryptocurrency:
+https://www.mimi.exchange/
+
+#### Token Airdop:
+https://github.com/AlgoNetwork/Bee-Sender-v2
+
+#### Create ERC20 Token:
+https://github.com/AlgoNetwork/TokenFactory/
+
