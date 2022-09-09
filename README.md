@@ -61,6 +61,7 @@ leave message:https://github.com/AlgoNetwork/Bee-Sender-v2/issues<br>
 Update:<br>
 Version 2.1:Fix bug,add multi language.<br>
 
+Version 4:add Ether bulk send feature<br>
 
 #### Buy Cryptocurrency:
 https://www.mimi.exchange/
